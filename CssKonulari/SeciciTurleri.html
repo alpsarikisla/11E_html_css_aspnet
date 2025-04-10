@@ -1,0 +1,32 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title>Seçici Türleri</title>
+    <style>
+        /*Sınıf Seçici*/
+        .maviYazi
+        {
+            color:blue;
+            font-size:15pt;
+        }
+        /*Etiket Seçici*/
+        h3
+        {
+            padding:0;margin:0;
+        }
+    </style>
+</head> 
+<body>
+    <h3>Satır bazında css</h3>
+    <label style="color:orangered"> Etikete eklenen style attribute'u ile kullanılan css'tir </label>
+
+    <h3>Sınıf Seçiciler</h3>
+    <label class="maviYazi">Head bloğuna eklenen style özelliği ile oluşturulan css sınıflarının etiketlerde class attribute'u ile tanımlanmasıyla kullanılır. Oluşturulan bir sınıfın birden çok etikette kullanılmasına olanak sağlar. head bloğunda style içerisine yazılan sınıf tanımlamarının başına . işareti konur. böylece class tanımlaması yapılır</label>
+    <h1 class="maviYazi">En büyük başlık</h1>
+
+    <h3>Etiket Seçiciler</h3>
+    <label>Head bloğuna eklenen style özelliği içerisine yazılan etiket adları ile oluşturulur. style içerine yazılan etiketten sayfada kaç adet varsa hepsi etkilenir</label>
+    <label>Yukarıdaki örnekte style içerisine yazılan h3 etiket seçicisi sayfadaki tüm h3 etiketine sahip başlıkların padding ve margin özelliklerini 0 olarak oluşmasını sağlar</label>
+</body>
+</html>
