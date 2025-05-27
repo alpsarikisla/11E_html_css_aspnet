@@ -1,0 +1,252 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Alp\\Documents\\GitHub\\11E_html_css_aspnet\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{85BF540D-C3E2-4B18-A161-D6B379C1302A}|HtmlCssAspNet\\HtmlCssAspNet.csproj|C:\\Users\\Alp\\Documents\\GitHub\\11E_html_css_aspnet\\HtmlCssAspNet\\AspKontrolleri\\OgrenciKayitOdev.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{85BF540D-C3E2-4B18-A161-D6B379C1302A}|HtmlCssAspNet\\HtmlCssAspNet.csproj|solutionrelative:HtmlCssAspNet\\AspKontrolleri\\OgrenciKayitOdev.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85BF540D-C3E2-4B18-A161-D6B379C1302A}|HtmlCssAspNet\\HtmlCssAspNet.csproj|c:\\users\\alp\\documents\\github\\11e_html_css_aspnet\\htmlcssaspnet\\aspkontrolleri\\dropdownlistdatabound.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85BF540D-C3E2-4B18-A161-D6B379C1302A}|HtmlCssAspNet\\HtmlCssAspNet.csproj|solutionrelative:htmlcssaspnet\\aspkontrolleri\\dropdownlistdatabound.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85BF540D-C3E2-4B18-A161-D6B379C1302A}|HtmlCssAspNet\\HtmlCssAspNet.csproj|C:\\Users\\Alp\\Documents\\GitHub\\11E_html_css_aspnet\\htmlcssaspnet\\aspkontrolleri\\dropdownlistdatabound.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{85BF540D-C3E2-4B18-A161-D6B379C1302A}|HtmlCssAspNet\\HtmlCssAspNet.csproj|solutionrelative:htmlcssaspnet\\aspkontrolleri\\dropdownlistdatabound.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85BF540D-C3E2-4B18-A161-D6B379C1302A}|HtmlCssAspNet\\HtmlCssAspNet.csproj|c:\\users\\alp\\documents\\github\\11e_html_css_aspnet\\htmlcssaspnet\\aspkontrolleri\\listviewkullanimi.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{85BF540D-C3E2-4B18-A161-D6B379C1302A}|HtmlCssAspNet\\HtmlCssAspNet.csproj|solutionrelative:htmlcssaspnet\\aspkontrolleri\\listviewkullanimi.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85BF540D-C3E2-4B18-A161-D6B379C1302A}|HtmlCssAspNet\\HtmlCssAspNet.csproj|C:\\Users\\Alp\\Documents\\GitHub\\11E_html_css_aspnet\\htmlcssaspnet\\aspkontrolleri\\listviewkullanimi.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85BF540D-C3E2-4B18-A161-D6B379C1302A}|HtmlCssAspNet\\HtmlCssAspNet.csproj|solutionrelative:htmlcssaspnet\\aspkontrolleri\\listviewkullanimi.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85BF540D-C3E2-4B18-A161-D6B379C1302A}|HtmlCssAspNet\\HtmlCssAspNet.csproj|C:\\Users\\Alp\\Documents\\GitHub\\11E_html_css_aspnet\\htmlcssaspnet\\aspkontrolleri\\datagridkullanimi.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85BF540D-C3E2-4B18-A161-D6B379C1302A}|HtmlCssAspNet\\HtmlCssAspNet.csproj|solutionrelative:htmlcssaspnet\\aspkontrolleri\\datagridkullanimi.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85BF540D-C3E2-4B18-A161-D6B379C1302A}|HtmlCssAspNet\\HtmlCssAspNet.csproj|C:\\Users\\Alp\\Documents\\GitHub\\11E_html_css_aspnet\\htmlcssaspnet\\aspkontrolleri\\datagridkullanimi.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{85BF540D-C3E2-4B18-A161-D6B379C1302A}|HtmlCssAspNet\\HtmlCssAspNet.csproj|solutionrelative:htmlcssaspnet\\aspkontrolleri\\datagridkullanimi.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85BF540D-C3E2-4B18-A161-D6B379C1302A}|HtmlCssAspNet\\HtmlCssAspNet.csproj|C:\\Users\\Alp\\Documents\\GitHub\\11E_html_css_aspnet\\htmlcssaspnet\\aspkontrolleri\\model\\datamodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85BF540D-C3E2-4B18-A161-D6B379C1302A}|HtmlCssAspNet\\HtmlCssAspNet.csproj|solutionrelative:htmlcssaspnet\\aspkontrolleri\\model\\datamodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85BF540D-C3E2-4B18-A161-D6B379C1302A}|HtmlCssAspNet\\HtmlCssAspNet.csproj|C:\\Users\\Alp\\Documents\\GitHub\\11E_html_css_aspnet\\HtmlCssAspNet\\AspKontrolleri\\TextBoxKontolu.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85BF540D-C3E2-4B18-A161-D6B379C1302A}|HtmlCssAspNet\\HtmlCssAspNet.csproj|solutionrelative:HtmlCssAspNet\\AspKontrolleri\\TextBoxKontolu.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85BF540D-C3E2-4B18-A161-D6B379C1302A}|HtmlCssAspNet\\HtmlCssAspNet.csproj|C:\\Users\\Alp\\Documents\\GitHub\\11E_html_css_aspnet\\HtmlCssAspNet\\AspKontrolleri\\TextBoxKontolu.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{85BF540D-C3E2-4B18-A161-D6B379C1302A}|HtmlCssAspNet\\HtmlCssAspNet.csproj|solutionrelative:HtmlCssAspNet\\AspKontrolleri\\TextBoxKontolu.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85BF540D-C3E2-4B18-A161-D6B379C1302A}|HtmlCssAspNet\\HtmlCssAspNet.csproj|C:\\Users\\Alp\\Documents\\GitHub\\11E_html_css_aspnet\\HtmlCssAspNet\\AspKontrolleri\\LabelKontrolu.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{85BF540D-C3E2-4B18-A161-D6B379C1302A}|HtmlCssAspNet\\HtmlCssAspNet.csproj|solutionrelative:HtmlCssAspNet\\AspKontrolleri\\LabelKontrolu.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85BF540D-C3E2-4B18-A161-D6B379C1302A}|HtmlCssAspNet\\HtmlCssAspNet.csproj|C:\\Users\\Alp\\Documents\\GitHub\\11E_html_css_aspnet\\HtmlCssAspNet\\AspKontrolleri\\ButtonKontrolu.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{85BF540D-C3E2-4B18-A161-D6B379C1302A}|HtmlCssAspNet\\HtmlCssAspNet.csproj|solutionrelative:HtmlCssAspNet\\AspKontrolleri\\ButtonKontrolu.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85BF540D-C3E2-4B18-A161-D6B379C1302A}|HtmlCssAspNet\\HtmlCssAspNet.csproj|C:\\Users\\Alp\\Documents\\GitHub\\11E_html_css_aspnet\\HtmlCssAspNet\\AspKontrolleri\\DropDownListKontrolu.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85BF540D-C3E2-4B18-A161-D6B379C1302A}|HtmlCssAspNet\\HtmlCssAspNet.csproj|solutionrelative:HtmlCssAspNet\\AspKontrolleri\\DropDownListKontrolu.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85BF540D-C3E2-4B18-A161-D6B379C1302A}|HtmlCssAspNet\\HtmlCssAspNet.csproj|C:\\Users\\Alp\\Documents\\GitHub\\11E_html_css_aspnet\\HtmlCssAspNet\\AspKontrolleri\\DropDownListKontrolu.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{85BF540D-C3E2-4B18-A161-D6B379C1302A}|HtmlCssAspNet\\HtmlCssAspNet.csproj|solutionrelative:HtmlCssAspNet\\AspKontrolleri\\DropDownListKontrolu.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 189,
+          "SelectedChildIndex": 14,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DropDownListDataBound.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Alp\\Documents\\GitHub\\11E_html_css_aspnet\\HtmlCssAspNet\\AspKontrolleri\\DropDownListDataBound.aspx.cs",
+              "RelativeDocumentMoniker": "HtmlCssAspNet\\AspKontrolleri\\DropDownListDataBound.aspx.cs",
+              "ToolTip": "C:\\Users\\Alp\\Documents\\GitHub\\11E_html_css_aspnet\\HtmlCssAspNet\\AspKontrolleri\\DropDownListDataBound.aspx.cs",
+              "RelativeToolTip": "HtmlCssAspNet\\AspKontrolleri\\DropDownListDataBound.aspx.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAgwC4AAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T09:39:52.991Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ListViewKullanimi.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Alp\\Documents\\GitHub\\11E_html_css_aspnet\\HtmlCssAspNet\\AspKontrolleri\\ListViewKullanimi.aspx.cs",
+              "RelativeDocumentMoniker": "HtmlCssAspNet\\AspKontrolleri\\ListViewKullanimi.aspx.cs",
+              "ToolTip": "C:\\Users\\Alp\\Documents\\GitHub\\11E_html_css_aspnet\\HtmlCssAspNet\\AspKontrolleri\\ListViewKullanimi.aspx.cs",
+              "RelativeToolTip": "HtmlCssAspNet\\AspKontrolleri\\ListViewKullanimi.aspx.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAwwBMAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T12:16:10.645Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ListViewKullanimi.aspx",
+              "DocumentMoniker": "C:\\Users\\Alp\\Documents\\GitHub\\11E_html_css_aspnet\\HtmlCssAspNet\\AspKontrolleri\\ListViewKullanimi.aspx",
+              "RelativeDocumentMoniker": "HtmlCssAspNet\\AspKontrolleri\\ListViewKullanimi.aspx",
+              "ToolTip": "C:\\Users\\Alp\\Documents\\GitHub\\11E_html_css_aspnet\\HtmlCssAspNet\\AspKontrolleri\\ListViewKullanimi.aspx",
+              "RelativeToolTip": "HtmlCssAspNet\\AspKontrolleri\\ListViewKullanimi.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-04-15T11:52:07.09Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DataGridKullanimi.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Alp\\Documents\\GitHub\\11E_html_css_aspnet\\HtmlCssAspNet\\AspKontrolleri\\DataGridKullanimi.aspx.cs",
+              "RelativeDocumentMoniker": "HtmlCssAspNet\\AspKontrolleri\\DataGridKullanimi.aspx.cs",
+              "ToolTip": "C:\\Users\\Alp\\Documents\\GitHub\\11E_html_css_aspnet\\HtmlCssAspNet\\AspKontrolleri\\DataGridKullanimi.aspx.cs",
+              "RelativeToolTip": "HtmlCssAspNet\\AspKontrolleri\\DataGridKullanimi.aspx.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAxwCgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T11:33:50.746Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DataGridKullanimi.aspx",
+              "DocumentMoniker": "C:\\Users\\Alp\\Documents\\GitHub\\11E_html_css_aspnet\\HtmlCssAspNet\\AspKontrolleri\\DataGridKullanimi.aspx",
+              "RelativeDocumentMoniker": "HtmlCssAspNet\\AspKontrolleri\\DataGridKullanimi.aspx",
+              "ToolTip": "C:\\Users\\Alp\\Documents\\GitHub\\11E_html_css_aspnet\\HtmlCssAspNet\\AspKontrolleri\\DataGridKullanimi.aspx",
+              "RelativeToolTip": "HtmlCssAspNet\\AspKontrolleri\\DataGridKullanimi.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-04-15T11:32:19.103Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DropDownListDataBound.aspx",
+              "DocumentMoniker": "C:\\Users\\Alp\\Documents\\GitHub\\11E_html_css_aspnet\\HtmlCssAspNet\\AspKontrolleri\\DropDownListDataBound.aspx",
+              "RelativeDocumentMoniker": "HtmlCssAspNet\\AspKontrolleri\\DropDownListDataBound.aspx",
+              "ToolTip": "C:\\Users\\Alp\\Documents\\GitHub\\11E_html_css_aspnet\\HtmlCssAspNet\\AspKontrolleri\\DropDownListDataBound.aspx",
+              "RelativeToolTip": "HtmlCssAspNet\\AspKontrolleri\\DropDownListDataBound.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-04-15T11:30:37.363Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DataModel.cs",
+              "DocumentMoniker": "C:\\Users\\Alp\\Documents\\GitHub\\11E_html_css_aspnet\\HtmlCssAspNet\\AspKontrolleri\\Model\\DataModel.cs",
+              "RelativeDocumentMoniker": "HtmlCssAspNet\\AspKontrolleri\\Model\\DataModel.cs",
+              "ToolTip": "C:\\Users\\Alp\\Documents\\GitHub\\11E_html_css_aspnet\\HtmlCssAspNet\\AspKontrolleri\\Model\\DataModel.cs",
+              "RelativeToolTip": "HtmlCssAspNet\\AspKontrolleri\\Model\\DataModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T10:43:49.084Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "TextBoxKontolu.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Alp\\Documents\\GitHub\\11E_html_css_aspnet\\HtmlCssAspNet\\AspKontrolleri\\TextBoxKontolu.aspx.cs",
+              "RelativeDocumentMoniker": "HtmlCssAspNet\\AspKontrolleri\\TextBoxKontolu.aspx.cs",
+              "ToolTip": "C:\\Users\\Alp\\Documents\\GitHub\\11E_html_css_aspnet\\HtmlCssAspNet\\AspKontrolleri\\TextBoxKontolu.aspx.cs",
+              "RelativeToolTip": "HtmlCssAspNet\\AspKontrolleri\\TextBoxKontolu.aspx.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T07:11:16.665Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "TextBoxKontolu.aspx",
+              "DocumentMoniker": "C:\\Users\\Alp\\Documents\\GitHub\\11E_html_css_aspnet\\HtmlCssAspNet\\AspKontrolleri\\TextBoxKontolu.aspx",
+              "RelativeDocumentMoniker": "HtmlCssAspNet\\AspKontrolleri\\TextBoxKontolu.aspx",
+              "ToolTip": "C:\\Users\\Alp\\Documents\\GitHub\\11E_html_css_aspnet\\HtmlCssAspNet\\AspKontrolleri\\TextBoxKontolu.aspx",
+              "RelativeToolTip": "HtmlCssAspNet\\AspKontrolleri\\TextBoxKontolu.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-03-17T07:11:12.675Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "LabelKontrolu.aspx",
+              "DocumentMoniker": "C:\\Users\\Alp\\Documents\\GitHub\\11E_html_css_aspnet\\HtmlCssAspNet\\AspKontrolleri\\LabelKontrolu.aspx",
+              "RelativeDocumentMoniker": "HtmlCssAspNet\\AspKontrolleri\\LabelKontrolu.aspx",
+              "ToolTip": "C:\\Users\\Alp\\Documents\\GitHub\\11E_html_css_aspnet\\HtmlCssAspNet\\AspKontrolleri\\LabelKontrolu.aspx",
+              "RelativeToolTip": "HtmlCssAspNet\\AspKontrolleri\\LabelKontrolu.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-03-17T07:08:53.932Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ButtonKontrolu.aspx",
+              "DocumentMoniker": "C:\\Users\\Alp\\Documents\\GitHub\\11E_html_css_aspnet\\HtmlCssAspNet\\AspKontrolleri\\ButtonKontrolu.aspx",
+              "RelativeDocumentMoniker": "HtmlCssAspNet\\AspKontrolleri\\ButtonKontrolu.aspx",
+              "ToolTip": "C:\\Users\\Alp\\Documents\\GitHub\\11E_html_css_aspnet\\HtmlCssAspNet\\AspKontrolleri\\ButtonKontrolu.aspx",
+              "RelativeToolTip": "HtmlCssAspNet\\AspKontrolleri\\ButtonKontrolu.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-03-17T07:08:43.26Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "DropDownListKontrolu.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Alp\\Documents\\GitHub\\11E_html_css_aspnet\\HtmlCssAspNet\\AspKontrolleri\\DropDownListKontrolu.aspx.cs",
+              "RelativeDocumentMoniker": "HtmlCssAspNet\\AspKontrolleri\\DropDownListKontrolu.aspx.cs",
+              "ToolTip": "C:\\Users\\Alp\\Documents\\GitHub\\11E_html_css_aspnet\\HtmlCssAspNet\\AspKontrolleri\\DropDownListKontrolu.aspx.cs",
+              "RelativeToolTip": "HtmlCssAspNet\\AspKontrolleri\\DropDownListKontrolu.aspx.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABUAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T10:52:02.029Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "DropDownListKontrolu.aspx",
+              "DocumentMoniker": "C:\\Users\\Alp\\Documents\\GitHub\\11E_html_css_aspnet\\HtmlCssAspNet\\AspKontrolleri\\DropDownListKontrolu.aspx",
+              "RelativeDocumentMoniker": "HtmlCssAspNet\\AspKontrolleri\\DropDownListKontrolu.aspx",
+              "ToolTip": "C:\\Users\\Alp\\Documents\\GitHub\\11E_html_css_aspnet\\HtmlCssAspNet\\AspKontrolleri\\DropDownListKontrolu.aspx",
+              "RelativeToolTip": "HtmlCssAspNet\\AspKontrolleri\\DropDownListKontrolu.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-03-03T10:38:38.866Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "OgrenciKayitOdev.aspx",
+              "DocumentMoniker": "C:\\Users\\Alp\\Documents\\GitHub\\11E_html_css_aspnet\\HtmlCssAspNet\\AspKontrolleri\\OgrenciKayitOdev.aspx",
+              "RelativeDocumentMoniker": "HtmlCssAspNet\\AspKontrolleri\\OgrenciKayitOdev.aspx",
+              "ToolTip": "C:\\Users\\Alp\\Documents\\GitHub\\11E_html_css_aspnet\\HtmlCssAspNet\\AspKontrolleri\\OgrenciKayitOdev.aspx",
+              "RelativeToolTip": "HtmlCssAspNet\\AspKontrolleri\\OgrenciKayitOdev.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-02-25T06:44:21.608Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
